@@ -68,3 +68,7 @@ on_path = '.*'
 repo = 'Shougo/neoyank.vim'
 depends = 'denite.nvim'
 on_event = 'TextYankPost'
+
+[[plugins]]
+repo = 'scrooloose/nerdtree'
+
