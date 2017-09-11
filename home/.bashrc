@@ -118,4 +118,4 @@ fi
 
 source /usr/local/bin/virtualenvwrapper.sh
 export WORKON_HOME=~/.virtualenvs
-export XDG_CONFIG_HOME=~/.config
+export XDG_CONFIG_HOME=~/dotfiles/xdgconfig
