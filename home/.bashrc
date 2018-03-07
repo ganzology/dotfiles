@@ -119,3 +119,9 @@ fi
 source /usr/local/bin/virtualenvwrapper.sh
 export WORKON_HOME=~/.virtualenvs
 export XDG_CONFIG_HOME=~/dotfiles/xdgconfig
+
+force_color_prompt=yes
+
+export ANDROID_HOME=~/dev/android-sdk
+export PATH=~/dev/android-sdk/platform-tools:~/android-sdk/android-sdk/tools:${PATH}
+export GIT_LFS_SKIP_SMUDGE=1
